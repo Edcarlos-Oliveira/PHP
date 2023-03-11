@@ -11,7 +11,7 @@
     
     
     <div>
-        <pre> <!-- Utilizado para organizar a ezibição do resultado-->
+        <pre> <!-- Utilizado para organizar a exibição do resultado-->
             <p>Trabalhando com Array Parte 2:</p>
                 <?php
                 // exibindo vetores na tela:
